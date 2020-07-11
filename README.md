@@ -1,14 +1,16 @@
 Project Title
 ==============================
 
+#### Final Report: [/reports](reports)
+
+
 Given project details...
 
-The summary of the project analysis can be found in [reports/summary.ipynb](reports) #change depending on how you produce report (pdf or ipynb?)
 
 Project Organization
 ------------
 
-    ├── README.md          <- Description of project and context.
+    ├── README.md          <- Description of project and context, overview of project and workflow.
     ├── data               <- Scripts to clean data
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
@@ -20,7 +22,7 @@ Project Organization
     │                         and a short `-` delimited description, e.g. `1.0-initial-data-exploration`.
     │                         
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials given.
+    ├── references         <- Take-home challenge explanatory materials given.
     │
     ├── reports            <- Generated analysis as jupyter notebook or PDF.
     │   └── figures        <- Scripts for generated graphics and figures to be used in reporting
