@@ -1,7 +1,7 @@
 Take-Home Challenge Template
 ==============================
 
-A short description of the project.
+This is a template to be used for data science take home challenges (based on cookie cutter template)
 
 Project Organization
 ------------
