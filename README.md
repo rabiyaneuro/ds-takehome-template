@@ -1,10 +1,10 @@
 Project Title
 ==============================
 
-#### Final Report: [/reports](reports)
+#### Walkthrough: [/reports](reports)
 
 
-Given project details...
+Summarize project in 500 words...
 
 
 Project Organization
@@ -24,7 +24,7 @@ Project Organization
     │
     ├── references         <- Take-home challenge explanatory materials given.
     │
-    ├── reports            <- Generated analysis as jupyter notebook or PDF.
+    ├── reports            <- Overview of analysis as jupyter notebook or PDF.
     │   └── figures        <- Scripts for generated graphics and figures to be used in reporting
     │
     |__ requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
