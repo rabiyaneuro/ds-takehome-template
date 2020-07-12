@@ -35,4 +35,4 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-<p><small>Also took inspiration from Chip Huyen's book <a target="_blank" href="https://github.com/chiphuyen/machine-learning-systems-design"> Machine Learning Systems Design </a> </small></p>
+<p><small>Workflow was also inspired by Chip Huyen's book <a target="_blank" href="https://github.com/chiphuyen/machine-learning-systems-design"> Machine Learning Systems Design </a> </small></p>
